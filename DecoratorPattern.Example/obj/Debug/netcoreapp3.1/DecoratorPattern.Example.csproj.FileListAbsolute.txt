@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\bin\Debug\netcoreapp3.1\DecoratorPattern.Example.exe
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\bin\Debug\netcoreapp3.1\DecoratorPattern.Example.deps.json
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\bin\Debug\netcoreapp3.1\DecoratorPattern.Example.runtimeconfig.json
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\bin\Debug\netcoreapp3.1\DecoratorPattern.Example.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\bin\Debug\netcoreapp3.1\DecoratorPattern.Example.dll
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\bin\Debug\netcoreapp3.1\DecoratorPattern.Example.pdb
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.dll
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.pdb
+C:\Users\ADMIN\Desktop\All_Solutions\DecoratorPattern.Example\obj\Debug\netcoreapp3.1\DecoratorPattern.Example.genruntimeconfig.cache
